@@ -1,0 +1,8 @@
+rename_work_server_urls:  
+ - from_work_server_url: https://robic-mobility-ca.imanage.work
+   to_work_server_url: https://cloudimanage.com
+work_server_urls:  
+ - https://robic-mobility-ca.imanage.work
+ - https://cloudimanage.com
+
+
